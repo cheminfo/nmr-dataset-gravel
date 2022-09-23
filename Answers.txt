@@ -1,0 +1,8 @@
+S1	C9H10O	93-55-0	propiophenone
+S2	C8H7ClO	2142-68-9	2'-chloroacetophenone
+S3	C8H8O2	591-31-1	m-methoxybenzaldehyde
+S4	C7H5NO3	555-16-8	p-nitrobenzaldehyde
+S5	C8H10O2	105-13-5	p-anisyl alcohol
+S6	C6H13N	108-91-8	cyclohexylamine
+S7	C4H11NO	108-01-0	2-(dimethylamino)ethanol
+S9	C6H12O3	80-55-7	ethyl 2-hydroxy-2-methylpropionate

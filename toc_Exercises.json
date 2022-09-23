@@ -1,0 +1,59 @@
+[
+  {
+    "id": "5209Qomjs5M27Z0m5Vs25s5qMGg=",
+    "mf": "C9H10O",
+    "idCodeHash": "89b028219b311462237df915fd039695",
+    "file": "./Exercises/1/index.json",
+    "title": "Exercise 1",
+    "selected": true
+  },
+  {
+    "id": "LoWkD5ut3U8NiuePQR84LmuOX3I=",
+    "mf": "C8H7OCl",
+    "idCodeHash": "4ff681720ca3046c82201ad8011ad4ba",
+    "file": "./Exercises/2/index.json",
+    "title": "Exercise 2"
+  },
+  {
+    "id": "4+nVQZ6YDqOmonUdX5V7LxoTT8s=",
+    "mf": "C8H8O2",
+    "idCodeHash": "75b582a425524ceeaed27f51c07fecbc",
+    "file": "./Exercises/3/index.json",
+    "title": "Exercise 3"
+  },
+  {
+    "id": "ypq1KdKlM1zz+m4KkhtA+qm8fiQ=",
+    "mf": "C7H5NO3",
+    "idCodeHash": "01ed5573b4c35074dcf77e20933f7eee",
+    "file": "./Exercises/4/index.json",
+    "title": "Exercise 4"
+  },
+  {
+    "id": "lhx3enPRMcOPe+TuGqUdGElwlg0=",
+    "mf": "C8H10O2",
+    "idCodeHash": "f671afbb3591862152be3fc7e476d9ae",
+    "file": "./Exercises/5/index.json",
+    "title": "Exercise 5"
+  },
+  {
+    "id": "ypysTNyjGHgByqGlOYCb20HS/fA=",
+    "mf": "C6H13N",
+    "idCodeHash": "153670e8146dc155b630b4a4ee7c653c",
+    "file": "./Exercises/6/index.json",
+    "title": "Exercise 6"
+  },
+  {
+    "id": "FaJrOlAgXWhzxmhUixPxKjDsZiI=",
+    "mf": "C4H11NO",
+    "idCodeHash": "1c87fc723bd13b906b863303904e6091",
+    "file": "./Exercises/7/index.json",
+    "title": "Exercise 7"
+  },
+  {
+    "id": "Q3+luUc0aTiBZMLu9CnOQYcZJvA=",
+    "mf": "C6H12O3",
+    "idCodeHash": "d8c4fd936bb0ac2de73eb75082e6e927",
+    "file": "./Exercises/8/index.json",
+    "title": "Exercise 8"
+  }
+]
